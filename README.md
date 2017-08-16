@@ -1,0 +1,2 @@
+# elasticsearch_request_time_collect
+收集es中指定索引中的所有request_time及request字段,并处理成报表.
